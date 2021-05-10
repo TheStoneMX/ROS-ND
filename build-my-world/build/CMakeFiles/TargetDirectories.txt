@@ -1,0 +1,3 @@
+/home/oscar/build-my-world/build/CMakeFiles/rebuild_cache.dir
+/home/oscar/build-my-world/build/CMakeFiles/edit_cache.dir
+/home/oscar/build-my-world/build/CMakeFiles/welcome.dir
