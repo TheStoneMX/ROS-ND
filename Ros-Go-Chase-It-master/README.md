@@ -26,7 +26,7 @@ $ catkin_init_workspace
 
 Next, download the packages within this repository called 'my_robot' and 'ball_chaser':
 ```
-$ git clone https://github.com/grejj/RoboticsND-Go-Chase-It.git
+$ git clone https://github.com/TheStoneMX/ROS-ND/Ros-Go-Chase-It/Ros-Go-Chase-It.git
 $ cp -R RoboticsND-Go-Chase-It/ball_chaser .
 $ cp -R RoboticsND-Go-Chase-It/my_robot .
 $ rm -rf RoboticsND-Go-Chase-It
